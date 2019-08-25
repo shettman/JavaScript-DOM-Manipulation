@@ -1,3 +1,3 @@
 # JavaScript-DOM-Manipulation
 
-![](Images/nasa.jpg)
+![](static/Images/nasa.jpg)
